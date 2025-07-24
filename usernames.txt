@@ -1,8 +1,17 @@
 
 345gs5662d34
 GET / HTTP/1.0
+GET / HTTP/1.1
+GET /cgi-bin/authLogin.cgi HTTP/1.1
+GET /query?q=SHOW+DIAGNOSTICS HTTP/1.1
+GET /solr/admin/cores?action=STATUS&wt=json HTTP/1.1
+GET /solr/admin/info/system HTTP/1.1
+GET /v2/_catalog HTTP/1.1
 OPTIONS / HTTP/1.0
 OPTIONS / RTSP/1.0
+OPTIONS sip:nm SIP/2.0
+User-Agent: Go-http-client/1.1
+User-Agent: Mozilla/5.0 (compatible; Odin; https://docs.getodin.com/)
 admin
 eth
 ethereum
