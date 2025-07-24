@@ -5,6 +5,7 @@ GET / HTTP/1.1
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
 admin
 ali
+anonymous
 arkserver
 es_user
 grid
@@ -15,7 +16,9 @@ pivpn
 qw
 root
 sa
+sol
 solana
+sybase
 taibabi
 test
 testuser
