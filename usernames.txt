@@ -1,5 +1,14 @@
 345gs5662d34
+Antminer
+GET / HTTP/1.0
+Host: 99.18.26.21:23
 admin
+baikal
+dmdba
 kevin
 root
 sa
+scuser
+ubuntu
+uftp
+user
