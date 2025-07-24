@@ -46,6 +46,7 @@ john
 jupyter
 kafka
 kali
+kevin
 lighthouse
 louisianamedical
 louisianapetrochem
