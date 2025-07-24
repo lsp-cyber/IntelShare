@@ -6,6 +6,7 @@ admin
 baikal
 dmdba
 kevin
+postgres
 root
 sa
 scuser
