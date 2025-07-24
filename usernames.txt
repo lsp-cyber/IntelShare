@@ -29,6 +29,7 @@ devserver
 dock
 docker
 ec2-user
+erpnext
 eth
 ethereum
 flask
@@ -67,6 +68,7 @@ rsync
 runcloud
 sa
 saeed
+sales
 samba
 sambauser
 sftptest
