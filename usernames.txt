@@ -18,9 +18,11 @@ deployer
 dmdba
 elastic
 grid
+guEsT
 guEst
 gueST
 gueSt
+guest
 iso
 jeff
 jose
@@ -30,6 +32,7 @@ louisianapetrochem
 marisa
 max
 niki
+node
 postgres
 rahul
 root
@@ -37,14 +40,17 @@ sa
 scuser
 shaun
 simona
+sol
 solv
 sshd
+stefanie
 support
 suraj
 tech
 tester
 tidb
 timothy
+toto
 tv
 ubuntu
 uftp
