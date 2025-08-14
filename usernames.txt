@@ -1,6 +1,7 @@
 345gs5662d34
 Antminer
 GET / HTTP/1.0
+GUEST
 GUESt
 GueSt
 Guest
