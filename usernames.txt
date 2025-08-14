@@ -14,8 +14,11 @@ andreia
 astra
 baikal
 cactiuser
+deployer
 dmdba
+elastic
 grid
+guEst
 gueST
 gueSt
 iso
