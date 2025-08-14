@@ -49,4 +49,5 @@ user
 user1
 valheim
 vhserver
+water
 www-data
