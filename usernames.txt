@@ -1,6 +1,10 @@
 
 345gs5662d34
+Accept: */*
 Antminer
+GET / HTTP/1.1
+GUEST
+GUESt
 GUEsT
 GUEst
 GUeST
@@ -23,6 +27,7 @@ christo
 debian
 gUEST
 gUESt
+gUeSt
 gUest
 gaurav
 git
@@ -38,6 +43,7 @@ hipchat
 ir
 it
 john
+joseph
 labeehive
 lekaren
 lorena
