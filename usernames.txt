@@ -36,6 +36,7 @@ nikita
 nodeuser
 nvidia
 oracle
+orangepi
 personel
 postgres
 prueba
