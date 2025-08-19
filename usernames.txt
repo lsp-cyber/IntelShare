@@ -1,6 +1,7 @@
 
 345gs5662d34
 Antminer
+GUEst
 GUeST
 GUeSt
 GUesT
@@ -14,6 +15,7 @@ GuesT
 Guest
 abbey
 admin
+alayna
 baikal
 caja
 christo
@@ -24,6 +26,7 @@ gaurav
 git
 globalsolutions
 group1
+guEST
 guESt
 guEsT
 gueST
