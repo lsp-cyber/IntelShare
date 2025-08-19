@@ -23,10 +23,12 @@ admin
 alayna
 baikal
 caja
+charles
 christo
 debian
 gUEST
 gUESt
+gUeST
 gUeSt
 gUest
 gaurav
@@ -38,12 +40,14 @@ guESt
 guEsT
 gueST
 gueSt
+guest
 hailee
 hipchat
 ir
 it
 john
 joseph
+kashan
 labeehive
 lekaren
 lorena
