@@ -37,6 +37,7 @@ debian
 dev
 docker
 es
+freepbxuser
 ftp
 gUEST
 gUESt
