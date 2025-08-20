@@ -1,4 +1,5 @@
 
+('root'
 0
 1234
 345gs5662d34
@@ -39,6 +40,7 @@ dev
 docker
 emo
 es
+es_user
 freepbxuser
 ftp
 gUEST
@@ -103,6 +105,7 @@ remote1
 robert
 robin
 root
+rootadmin
 sa
 sajjad
 shawn
@@ -140,3 +143,4 @@ wang
 will
 zabbix
 zhangm
+zk
