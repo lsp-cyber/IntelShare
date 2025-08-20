@@ -26,6 +26,7 @@ abbey
 actions
 admin
 alayna
+andrew
 ansible
 ant
 anthony
@@ -86,6 +87,7 @@ louisianamedical
 louisianapetrochem
 maria
 matthew
+michael
 michel
 minecraft
 mohamed
@@ -149,3 +151,4 @@ will
 zabbix
 zhangm
 zk
+zte
