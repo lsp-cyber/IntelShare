@@ -27,6 +27,7 @@ actions
 admin
 alayna
 ansible
+ant
 anthony
 baikal
 brandon
@@ -41,6 +42,7 @@ docker
 emo
 es
 es_user
+frappe
 freepbxuser
 ftp
 gUEST
@@ -108,6 +110,7 @@ root
 rootadmin
 sa
 sajjad
+server
 shawn
 sol
 solana
