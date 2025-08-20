@@ -36,6 +36,7 @@ gUEST
 gUESt
 gUeST
 gUeSt
+gUesT
 gUest
 gaurav
 git
@@ -55,6 +56,7 @@ hipchat
 ir
 it
 jack
+james
 john
 joseph
 joshua
@@ -65,6 +67,7 @@ lekaren
 lorena
 louisianamedical
 louisianapetrochem
+maria
 michel
 minecraft
 mohamed
@@ -85,14 +88,20 @@ robert
 robin
 root
 sa
+sajjad
+shawn
 sol
 solana
 solv
 sonar
+splunk
 sshd
 star
 stas
+steve
 support
+system
+tahmid
 tempuser
 test
 test01
