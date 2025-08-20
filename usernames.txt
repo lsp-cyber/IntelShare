@@ -27,6 +27,7 @@ brandon
 caja
 charles
 christo
+david
 debian
 dev
 es
