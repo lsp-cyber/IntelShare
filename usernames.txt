@@ -29,6 +29,7 @@ alayna
 ansible
 ant
 anthony
+anyuser
 baikal
 brandon
 caja
@@ -122,6 +123,7 @@ stake
 star
 stas
 steve
+steven
 story
 support
 system
