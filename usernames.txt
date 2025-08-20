@@ -32,10 +32,12 @@ brandon
 caja
 charles
 christo
+daniel
 david
 debian
 dev
 docker
+emo
 es
 freepbxuser
 ftp
@@ -64,6 +66,7 @@ hipchat
 ir
 it
 jack
+jacob
 james
 john
 joseph
@@ -72,6 +75,7 @@ kashan
 kevon
 labeehive
 lekaren
+liquidity
 lorena
 louisianamedical
 louisianapetrochem
@@ -108,6 +112,7 @@ solv
 sonar
 splunk
 sshd
+stake
 star
 stas
 steve
@@ -119,7 +124,9 @@ tempuser
 test
 test01
 testuser
+tfsc
 tmpuser
+tpuser
 ubnt
 ubuntu
 user
