@@ -23,6 +23,7 @@ admin
 alayna
 ansible
 baikal
+brandon
 caja
 charles
 christo
@@ -52,6 +53,7 @@ it
 jack
 john
 joseph
+joshua
 kashan
 labeehive
 lekaren
@@ -86,6 +88,7 @@ star
 stas
 support
 tempuser
+test01
 testuser
 tmpuser
 ubnt
@@ -95,5 +98,6 @@ user1
 user9
 vagrant
 validator
+viola
 will
 zhangm
