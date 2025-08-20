@@ -42,8 +42,10 @@ group1
 guEST
 guESt
 guEsT
+guEst
 gueST
 gueSt
+guesT
 guest
 guillermo
 hailee
@@ -55,6 +57,7 @@ john
 joseph
 joshua
 kashan
+kevon
 labeehive
 lekaren
 lorena
@@ -77,6 +80,7 @@ postgres
 prueba
 remote1
 robert
+robin
 root
 sa
 sol
@@ -88,6 +92,7 @@ star
 stas
 support
 tempuser
+test
 test01
 testuser
 tmpuser
@@ -100,4 +105,5 @@ vagrant
 validator
 viola
 will
+zabbix
 zhangm
