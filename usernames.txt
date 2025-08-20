@@ -22,6 +22,8 @@ GueST
 GueSt
 GuesT
 Guest
+LNubxdFy
+P99umqAg
 abbey
 actions
 admin
@@ -31,6 +33,7 @@ ansible
 ant
 anthony
 anyuser
+app
 baikal
 brandon
 caja
@@ -44,6 +47,7 @@ docker
 emo
 es
 es_user
+ethan
 frappe
 freepbxuser
 ftp
@@ -77,6 +81,7 @@ james
 john
 joseph
 joshua
+karissa
 kashan
 kevon
 labeehive
@@ -104,6 +109,7 @@ orangepi
 paul
 personel
 phantom
+pi
 postgres
 prueba
 remote1
@@ -120,6 +126,7 @@ solana
 solv
 sonar
 splunk
+squid
 sshd
 stake
 star
@@ -148,6 +155,7 @@ viola
 vpn
 wang
 will
+xhPh484a
 zabbix
 zhangm
 zk
