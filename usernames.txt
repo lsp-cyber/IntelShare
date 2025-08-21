@@ -4,6 +4,7 @@
 1234
 345gs5662d34
 Accept: */*
+Administrator
 Antminer
 CONNECT 23.11.200.147:443 HTTP/1.0
 GET / HTTP/1.1
@@ -51,6 +52,7 @@ debian
 deploy
 dev
 docker
+elasticsearch
 emo
 es
 es_user

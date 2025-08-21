@@ -1,23 +1,23 @@
-Total hashes: 1762
+Total hashes: 1820
 Unique hashes: 79
 
 SHA sum: c32b4937ce8564ea904a3bd2cb64805500ddfd28952a90fd55cb3c85d0be7644
-  Count: 89
+  Count: 93
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2
-  Count: 89
+  Count: 92
     Malicious: 29    Suspicious: 0    Harmless: 0    Unidentified: 34
 Category: malicious
 
 SHA sum: cc1eb03e9b5926d8076e25826664a04400de854bf5cc660fa35eb86cbdf7dc0f
-  Count: 89
+  Count: 92
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 3f1f9a5db692d999bb3d576b5e9956a242136e961ff3f52ba6202b1254ccdb99
-  Count: 88
+  Count: 91
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
@@ -37,37 +37,37 @@ SHA sum: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
 Category: undetected
 
 SHA sum: 50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326
-  Count: 88
+  Count: 91
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 62
 Category: undetected
 
 SHA sum: 95df9ab820c0b94e87412330a566c7e47ceef0cfc297bbe2c51a198d1b017abe
-  Count: 86
+  Count: 89
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: a28dd0be4d71a20d853d1770a896f623b4558fd8f00a6e06cc489263029b66f0
-  Count: 86
+  Count: 89
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 64426356ffcabc3671e5bd0acff75ec85278dc0d4ff5dac8cc07a9dc05a4c420
-  Count: 88
+  Count: 91
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: f904275333aeac48d7df6cf53fe5fb9212c7d132a7d37253d2ab9321ba2690d8
-  Count: 86
+  Count: 89
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 28ba533b0f3c4df63d6b4a5ead73860697bdf735bb353e4ca928474889eb8a15
-  Count: 90
+  Count: 93
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 61
 Category: undetected
 
 SHA sum: 5c0be87ed7434d69005f8bbd84cad8ae6abfd49121b4aaeeb4c1f4a2e2987711
-  Count: 88
+  Count: 91
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: unknown
 
@@ -77,32 +77,32 @@ SHA sum: a7aa36c3bdff392eb5f787dfa19a7cc8c6cd0b3e77316d5b63b2dc8def608f3a
 Category: not found
 
 SHA sum: ab1fb68311b4d2a718123c07a514cfe211df2e9109eeecc6f6f953af961c763c
-  Count: 86
+  Count: 89
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: ea82fe82924bbdcd34f9642d3e79470eefa35f2308a6d85ad9cadf20051f1b2d
-  Count: 88
+  Count: 91
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 28720365c5e7476a011e4f43ac003ee5f16247a263b9d623aa85ed311d73bf39
-  Count: 88
+  Count: 91
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 60
 Category: undetected
 
 SHA sum: f25297859cf0a70af5c053a5464a5fa647a35ceee1d91397331903846d79ffc1
-  Count: 89
+  Count: 92
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 62
 Category: undetected
 
 SHA sum: afd0dd76c8d59e416fec286d040e83826448034f3e0fe636494e348f908ff851
-  Count: 89
+  Count: 92
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 09a3e612f8cad156005766467cf917c507aa88b3336043a76182a301b404545e
-  Count: 89
+  Count: 92
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
@@ -367,32 +367,32 @@ SHA sum: b93dc06dc860820921904b23c36f57160960c468d1ef5a2b786d8216d8f385c5
 Category: not found
 
 SHA sum: 71f8e5e3a1745c8811d8057d9ce086d8e94a949a79575c5157128db2a7f2e9b5
-  Count: 4
+  Count: 5
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: c55cf36e16c352abadc12b92ab342c156a82090b7dd5e4b6f8c9155c8d84bbd1
-  Count: 4
+  Count: 5
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 8770d2bbeedc36d994f64e7873e27304199999a33d0e25a6f48b9feda0d1417a
-  Count: 2
+  Count: 3
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 61a1563c39f0bdf6511a22fcd3ccfa295d1ba6792c2a5274f4e9fc9516d73bc7
-  Count: 2
+  Count: 3
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 88d5d4f3c97224d9e17174f2e46e87c607b2b6c3b6c6d44aa363718a996f717f
-  Count: 1
+  Count: 2
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
 SHA sum: 862e97ac330065a9639eb68f0030ef8e96e27a8f116078a5607bf3a5f450e515
-  Count: 1
+  Count: 2
     Malicious: 0    Suspicious: 0    Harmless: 0    Unidentified: 0
 Category: not found
 
