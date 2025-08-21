@@ -60,6 +60,7 @@ fil
 frappe
 freepbxuser
 ftp
+ftpuser
 gUEST
 gUESt
 gUEsT
@@ -102,6 +103,7 @@ liquidity
 lorena
 louisianamedical
 louisianapetrochem
+luis
 maria
 matthew
 michael
@@ -112,10 +114,12 @@ mongo
 mt
 namada
 nb
+nigger
 nikita
 node
 nodeuser
 nvidia
+odoo
 operator
 oracle
 orangepi
@@ -158,6 +162,7 @@ tempuser
 test
 test01
 test1
+testa
 testuser
 tfsc
 tmax
@@ -177,6 +182,7 @@ wang
 will
 xhPh484a
 zabbix
+zf
 zhangm
 zk
 zte
